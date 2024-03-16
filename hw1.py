@@ -1,5 +1,4 @@
 def get_radius(prompt):
-    print('\n반지름의 값을 한번 더 입력해주세요.')
     r = int(input(prompt))
     return r
 
