@@ -1,1 +1,1 @@
-# hwcod
+# hwcode
