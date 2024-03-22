@@ -15,7 +15,7 @@ def exchange(money):
     print("100원 동전의 개수:", coin100)
     print("50원 동전의 개수:", coin50)
     print("10원 동전의 개수:", coin10)
-    #print("남은 1원 단위 돈:", money)-1원 단위로 마지막까지 나눠떨어지지 않는 돈 계
+    #print("남은 1원 단위 돈:", money)-1원 단위로 마지막까지 나눠떨어지지 않는 돈 계산
 
 def get_integer(i):
     num = int(input(i))
